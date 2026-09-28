@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/parsefile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Parse host/file network string helpers for config audits.",
+  "bin": {
+    "parsefile": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/parsefile.git"
+  },
+  "homepage": "https://theworker02.github.io/parsefile/",
+  "keywords": [
+    "parse",
+    "file",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
